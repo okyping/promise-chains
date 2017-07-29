@@ -1,0 +1,27 @@
+{
+  "name": "promise-chains",
+  "version": "1.0.0",
+  "description": "make promises run one by one",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel-node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okyping/promise-chains.git"
+  },
+  "keywords": [
+    "promise",
+    "order"
+  ],
+  "author": "yanping",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okyping/promise-chains/issues"
+  },
+  "homepage": "https://github.com/okyping/promise-chains#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0"
+  }
+}
